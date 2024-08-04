@@ -1,2 +1,2 @@
-# SoulTravel_15-06-24
+# Soul ravel 
 Unlock the secrets to creating a stunning landing page with HTML, CSS, and JavaScript in this comprehensive guide.
